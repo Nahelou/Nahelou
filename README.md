@@ -2,7 +2,7 @@
 
 @nahelou, GIS engineer at [Explore](https://www.explore.fr/) passionate about new technologies and dataviz. 
 
-> I'm trying to learn to code on my own, **spoiler** : *That's not easy*
+I'm trying to learn to code on my own, **spoiler** : *That's not easy* :nerd_face:
 
 Currently based in Nantes, France
 
