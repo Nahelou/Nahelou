@@ -7,7 +7,7 @@ You can find some side projects on my [Personal webSite](https://nahelou.github.
 
 - 🔭 I’m currently focusing on web visualisation
 - 🌱 I’m currently learning frameworks (Vue and React)
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Dataviz : Application / Library / Project ... 😍
 - 📫 How to reach me: nahelouquentin@gmail.com
 
 
