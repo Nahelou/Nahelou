@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-@nahelou, GIS engineer at [Explore](https://www.explore.fr/) passionate about new technologies and dataviz. 
+@nahelou, 3D Webmapping dev at [SIRADEL](https://www.siradel.com/) passionate about new technologies and dataviz. 
 
 I'm trying to learn to code on my own, **spoiler** : *That's not easy* :nerd_face:
 
-Currently based in Nantes, France
+Currently based in Rennes, France
 
 You can find some side projects on my [Personal webSite](https://nahelou.github.io/)
 
