@@ -14,5 +14,5 @@ You can find some side projects on my [Personal webSite](https://nahelou.github.
 - 📫 How to reach me: nahelouquentin@gmail.com
 
 
-![Nahelou's github stats](https://github-readme-stats.vercel.app/api?username=nahelou&show_icons=true&include_all_commits=true)
+![Nahelou's github stats](https://github-readme-stats.vercel.app/api?username=nahelou&show_icons=true&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahelou)](https://github.com/nahelou/github-readme-stats)
