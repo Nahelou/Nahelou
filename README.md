@@ -12,7 +12,3 @@ You can find some side projects on my [Personal webSite](https://nahelou.github.
 - 🌱 I’m learning frameworks (Vue and Angular)
 - 👯 I’m looking to collaborate on Dataviz : Application / Library / Project ... 😍
 - 📫 How to reach me: nahelouquentin@gmail.com
-
-
-![Nahelou's github stats](https://github-readme-stats.vercel.app/api?username=nahelou&show_icons=true&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahelou)](https://github.com/nahelou/github-readme-stats)
